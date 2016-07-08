@@ -1,0 +1,11 @@
+{
+  "name": "cameronjroe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "open http://www.axisdefined.com/assets/img/cameronjroe_la.jpg"
+  },
+  "author": "",
+  "license": "MIT"
+}
